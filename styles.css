@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(32, 32, 32);
+    background-image: url(POTATOS.png);
+    background-repeat: repeat-x;
+    background-position-y: 500px;
+}
+
+T1 {
+    color:rgb(182, 6, 6);
+    text-align: center;
+    font-family: 'Minecraft';
+    font-size: 80px;
+    src: url(minecraft_font.ttf)
+}
+
+.img1 {
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
